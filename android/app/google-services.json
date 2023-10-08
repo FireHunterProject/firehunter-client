@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848209472489",
+    "project_id": "firehunter-34145",
+    "storage_bucket": "firehunter-34145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848209472489:android:cb8ddfc6e7538216d2b978",
+        "android_client_info": {
+          "package_name": "com.hackathon.fire_hunter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlrTdlKayOLSpgZPWMbTHGjk_peNuAnzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
